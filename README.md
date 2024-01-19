@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mahshad 👋🏻👩🏻‍💻</h1>
-<img width="983" alt="Screenshot 1402-10-29 at 10 27 44 at night" src="https://github.com/MahshadOliaie/MahshadOliaie/assets/99864927/fa14bcdb-f7af-4cf0-a703-829e5af7fee1">
+<img width="1020" alt="Screenshot 1402-10-29 at 10 55 53 at night" src="https://github.com/MahshadOliaie/MahshadOliaie/assets/99864927/86bd13c1-44f6-47c2-aff1-1e3a5fb6dadf">
 <h3 align="left">i'm a junior frontend developer from Iran</h3>
 
 
