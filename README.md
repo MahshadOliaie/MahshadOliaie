@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mahshad 👋🏻👩🏻‍💻</h1>
 <img width="1020" alt="Screenshot 1402-10-29 at 10 55 53 at night" src="https://github.com/MahshadOliaie/MahshadOliaie/assets/99864927/86bd13c1-44f6-47c2-aff1-1e3a5fb6dadf">
-<h3 align="left">i'm a junior frontend developer from Iran</h3>
+<h3 align="left">i'm a frontend developer from Iran</h3>
 
 
 - 🌱 I’m currently learning **React-JS**
@@ -9,7 +9,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://instagram.com/mahsahdoliaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahsahdoliaie" height="30" width="40" /></a>
+<a href="https://instagram.com/frontcode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahsahdoliaie" height="30" width="40" /></a>
 </p>
 <hr/>
 <h3 align="center">Languages and Tools</h3>
