@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Mahshad 👋🏻👩🏻‍💻</h1>
-<img width="1020" alt="Screenshot 1402-10-29 at 10 55 53 at night" src="https://github.com/MahshadOliaie/MahshadOliaie/assets/99864927/86bd13c1-44f6-47c2-aff1-1e3a5fb6dadf">
+
 <h3 align="left">i'm a frontend developer from Iran</h3>
 
 
-- 🌱 I’m currently learning **Next-JS**
 
 - 📫 How to reach me **mahshadoliaie@gmail.com**
 
